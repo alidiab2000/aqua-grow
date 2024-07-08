@@ -23,9 +23,21 @@ class OnBoardingBody extends StatelessWidget {
           children: const [
             OnBoardingPage(
               image: "assets/onboarding/onboarding1.png",
-              title: 'AQUA GROWمرحبا بك فى',
+              title: 'مرحبا بك فى\nAQUA GROW',
               subTitle:
                   "اكتشف مجموعة واسعة من الميزات المفيدة التي تساعدك على تحقيق أهدافك الزراعية بسهولة وفعالية",
+            ),
+            OnBoardingPage(
+              image: "assets/onboarding/onboarding2.png",
+              title: "توصيات للرى",
+              subTitle:
+                  "ستحصل على توصيات مخصصة لأوقات الري والزراعة التي تناسب محاصيلك ، لجعل عملية الزراعة أسهل وأكثر فاعلية",
+            ),
+            OnBoardingPage(
+              image: "assets/onboarding/onboarding3.png",
+              title: "مسئول زراعى",
+              subTitle:
+                  "نوفر لك خدمة الدردشة المباشرة مع مسؤول زراعي مؤهل، للحصول على المساعدة والإرشاد الفوري في جميع مسائل الزراعة الخاصة بك",
             ),
           ],
         ),

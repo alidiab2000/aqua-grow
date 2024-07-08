@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>23084953366-16tu5lvgad6r4529l51af0ar7rkjvtfn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.23084953366-16tu5lvgad6r4529l51af0ar7rkjvtfn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEplqubIAsRCxtfucaMWcWfwZzp47aph4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23084953366</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aquaGrow</string>
+	<key>PROJECT_ID</key>
+	<string>aqua-grow-497c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aqua-grow-497c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23084953366:ios:1e6acbd64a0a7b0eb66a37</string>
+</dict>
+</plist>

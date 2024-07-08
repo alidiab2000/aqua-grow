@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23084953366",
+    "project_id": "aqua-grow-497c5",
+    "storage_bucket": "aqua-grow-497c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23084953366:android:036b475294cbe121b66a37",
+        "android_client_info": {
+          "package_name": "com.example.aqua_grow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23084953366-qqse7fj0fffmh29484dkdp2faep180hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9v7IEaXc29R3IuECKLHSGsBwW9P1GO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23084953366-qqse7fj0fffmh29484dkdp2faep180hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

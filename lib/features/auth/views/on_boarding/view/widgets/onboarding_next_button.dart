@@ -11,18 +11,13 @@ class OnBoardingNextButton extends StatelessWidget {
     final controller = OnBoardingController.instance;
 
     return Positioned(
-      right: 16,
+      left: 16,
       bottom: kBottomNavigationBarHeight,
-      child: Container(
+      child: SizedBox(
         width: 100,
-        decoration: const BoxDecoration(
-          color: AppColors.primaryColor,
-          borderRadius: BorderRadius.all(Radius.circular(50)),
-        ),
         child: ElevatedButton(
           onPressed: controller.nextPage,
           style: ElevatedButton.styleFrom(
-            shape: const CircleBorder(),
             backgroundColor: AppColors.primaryColor,
           ),
           child: const Text(

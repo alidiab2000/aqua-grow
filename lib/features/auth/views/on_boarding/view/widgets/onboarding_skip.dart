@@ -10,11 +10,12 @@ class OnBoardingSkip extends StatelessWidget {
   Widget build(BuildContext context) {
     final controller = OnBoardingController.instance;
     return Positioned(
-       right: 16,
+      top: 25,
+      right: 16,
       child: TextButton(
         onPressed: controller.skipOnBoarding,
         child: const Text(
-          "Skip",
+          "تخطي",
         ),
       ),
     );
